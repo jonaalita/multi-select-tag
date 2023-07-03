@@ -107,12 +107,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #2c7a7b;
+    color: rgba(255, 255, 255, 0.8);
     padding: 0.2rem 0.4rem;
     margin: 0.2rem;
     font-weight: 500;
-    border: 1px solid #81e6d9;
-    background: #e6fffa;
+    border: 1px solid #7367f0;
+    background: #7367f0;
     border-radius: 9999px;
 }
 
